@@ -442,7 +442,10 @@ h6,
 #msg-box5-x P {
   text-align: left;
   font-size: 32px;
-  color: #000000;
+  color: #ffffff;
+}
+#msg-box5-x B {
+  color: #ffffff;
 }
 #features3-17 H4 {
   font-family: 'Source Sans Pro', sans-serif;

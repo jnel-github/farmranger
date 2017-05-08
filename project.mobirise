@@ -41,6 +41,21 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#f79321",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#232323",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "23px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-16",
           "_params": {
             "imageSize": "28",
@@ -87,22 +102,7 @@
           },
           "title": "LIVESTOCK THEFT? PREDATOR / STRAY DOG ATTACKS ?",
           "text": "During livestock theft or a predator attack, the FarmRanger system generates <b>alarms on the farmer's cell phone</b>. The GPS position of the animals are shown in the FarmRanger App and the farmer can act quickly to prevent damage.<br><br><b>FarmRanger</b>, previously known as <b>Celmax</b>, has been the <b>industry leader</b> since the company started in 1999. We have more than 15 years experience and just over 1500 loyal customers to date.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#f79321",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#232323",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "23px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -117,7 +117,10 @@
             "P": {
               "text-align": "left",
               "font-size": "32px",
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-x",
@@ -135,8 +138,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#fff",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -161,7 +164,7 @@
             }
           },
           "title": "",
-          "text": "FarmRanger is <b>easy to use</b> after you <b>undertand the basics</b> - have a look:&nbsp;",
+          "text": "FarmRanger is easy to use after you undertand the basics - have a look:&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -169,6 +172,16 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
           "_anchor": "features3-17",
           "_params": {
             "paddingTop": 2,
@@ -283,17 +296,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            },
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -499,6 +502,16 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
           "_anchor": "features3-1a",
           "_params": {
             "paddingTop": "1",
@@ -594,9 +607,9 @@
               "active": true
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "More stuff here",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "More stuff.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -609,17 +622,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            },
-            "H4": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1110,6 +1113,14 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header4-1g",
           "_params": {
             "parallax": true,
@@ -1132,15 +1143,7 @@
           },
           "title": "A word about us<br><br>",
           "text": "Stock theft and predator attacks can result in major financial loss, and many farmers despair at finding a solution.<br><br>Philip Lötter, a former sheep farmer in the Western Cape, suffered ongoing livestock theft on his farm. In 1999, he decided to tackle the problem head-on, and collaborated with Stellenbosch-based company Etse Electronics to develop a livestock anti-theft system.<br><br>A FarmRanger collar is placed on only one animal per group, and thereby monitors the entire flock or herd. If the animal is threatened, the collar will sense the abnormal movement and trigger an alarm on the farmer’s mobile.<br><br>With its built-in GPS, FarmRanger allows a farmer to keep precise track of a herd or flock, showing where the alarm is occurring. FarmRanger can be used on any mobile phone via SMS messages, and has a smartphone application available for Android and Apple devices.<br><br>FarmRanger does not require field stations because the collars communicate directly to the farmer’s phone. This means that there is no set-up cost, making FarmRanger a very affordable solution.<br><br>More than 1 500 farmers in South Africa, Namibia and Australia are currently using FarmRanger collars.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1276,6 +1279,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "form1-1k",
           "_params": {
             "labelsColor": "#232323",
@@ -1321,15 +1332,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     }
