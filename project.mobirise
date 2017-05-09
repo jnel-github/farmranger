@@ -151,7 +151,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://youtu.be/zGeHeGMlpoY",
+              "src": "https://youtu.be/HiUnc52AxI0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -221,7 +221,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
