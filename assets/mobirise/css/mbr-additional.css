@@ -447,10 +447,23 @@ h6,
 #msg-box5-x B {
   color: #ffffff;
 }
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1n H3 {
+  color: #f79321;
+}
 #features3-17 H4 {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #features3-17 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#features3-1a P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#features3-1a H4 {
   font-family: 'Source Sans Pro', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
@@ -483,19 +496,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #33834a;
+  background: #00602c;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #3d9d59!important;
+  background: #00843d!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #41a85f;
+  background: #009344;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -523,7 +536,7 @@ h6,
   background-color: #ffffff;
 }
 #testimonials4-4 .mbr-section-title {
-  color: #ffffff;
+  color: #f79321;
 }
 #testimonials4-4 .card-block P {
   text-align: left;
@@ -531,12 +544,6 @@ h6,
 #testimonials4-4 .card-footer > div {
   color: #ffffff;
   text-align: center;
-}
-#features3-1a P {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#features3-1a H4 {
-  font-family: 'Source Sans Pro', sans-serif;
 }
 #msg-box4-f H3 {
   color: #000000;
