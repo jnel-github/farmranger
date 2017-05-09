@@ -221,7 +221,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -246,7 +246,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -274,7 +274,7 @@
           },
           "title3": "Easy setup",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "There are no installation costs. Once you received your unit, all you have to do is attach it to an animal. Even the settings are updated remotely.",
+          "caption3": "There are no installation costs. Once you received your unit, all you have to do is attach it to an animal.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -290,11 +290,11 @@
           },
           "title4": "Works with any mobile device",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The easy to use application can be installed on any Android or iOS device. If you don't have a smartphone, functionality can also work on any older phone.",
+          "caption4": "The easy to use application can be installed on any Android or iOS device.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-4-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -310,15 +310,19 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "No smartphone? No Problem.",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "If you don't have a smartphone, functionality can also work on any older phone via sms messages and calls.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -361,7 +365,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/artboard-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -377,7 +381,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -425,7 +429,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-3-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/oldphone-600x400.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -435,9 +439,9 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "More stuff here",
+          "title5": "No smartphone? No Problem.",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "More stuff.",
+          "caption5": "If you don't have a smartphone, functionality can also work on any older phone via sms messages and calls.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
