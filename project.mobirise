@@ -1,17 +1,17 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#009344",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#f79321",
         "titleFont": "Source Sans Pro",
         "subtitleFont": "Source Sans Pro",
         "textFont": "Source Sans Pro",
@@ -377,7 +377,7 @@
           },
           "title1": "Nationwide coverage",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>FarmRanger collars work on a GPRS network which has the widest spread coverage of all mobile networks. Coverage enhancing systems can be installed on request. (visit <a href=\"http://www.celmax.co.za\" target=\"_blank\">More details here</a>)</p>",
+          "caption1": "<p>FarmRanger collars work on a GPRS network which has the widest spread coverage of all mobile networks. Coverage enhancing systems can be installed on request. (<a href=\"http://www.celmax.co.za\" target=\"_blank\" class=\"text-danger\">More details here</a>)</p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -837,13 +837,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#33834a"
+              "background": "#00602c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3d9d59!important"
+              "background": "#00843d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#41a85f"
+              "background": "#009344"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1215,13 +1215,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#33834a"
+              "background": "#00602c"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3d9d59!important"
+              "background": "#00843d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#41a85f"
+              "background": "#009344"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1326,7 +1326,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
