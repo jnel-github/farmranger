@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "media.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1126,7 +1126,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "jnel@emss.co.za",
+            "action": "info@farmranger.co.za",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
