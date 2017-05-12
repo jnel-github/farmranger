@@ -727,6 +727,13 @@ h6,
 #form1-1k SMALL {
   font-size: 22px;
 }
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y H3 {
+  font-size: 24px;
+}
 
 
 #menu-n .hide-buttons .nav-btn {
