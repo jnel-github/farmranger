@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "FarmRanger",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 75,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1098,87 +1098,30 @@
           "text": "Copyright (c) 2017 FarmRanger &nbsp;- <a href=\"privacypolicy.html\">Privacy Policy</a>"
         },
         {
+          "alias": "htmlblock",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "form1-1k",
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-22",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "blockTitle": "",
+            "HTMLCode": "<div class=\"container\" id=\"contact\">\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\t<div class=\"col-md-8\">\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t\t<h2 id=\"philip-lötter\">Philip Lötter</h2>\n\t\t\t\t\t\t\t<h4>Tel: +27 (0)28-212 3346</h4>\n\t\t\t\t\t\t\t<h4>Fax: +27 (0)28-212 1905</h4>\n\t\t\t\t\t\t\t<h4>info@farmranger.co.za</h4>\n\t\t\n\t\t\t\t<hr>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<form method=\"post\" action=\"//flipmail.co/api/9pcbAgPxCZikzWVBALTP\">\n\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"name\">Name and Surname</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"name\" id=\"name\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"email\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div><div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Confirm Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email2\" id=\"email2\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"message\">Message</label>\n\t\t\t\t\t\t\t\t\t\t\t<textarea rows=\"20\" id=\"message\" class=\"form-control\" name=\"message\" required></textarea>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n<!--\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6 center\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g-recaptcha\" data-sitekey=\"6LfGwAoUAAAAANj6o3IKjRA17rdbZnCQP_EsdB4U\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>-->\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"_honey\" value=\"\" style=\"display:none\">\n\t\t\t\t\t\t\t\t\t<div class=\"row spacer\"></div>\n\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12 text-center\">\n\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" class=\"btn btn-template-main\"><i class=\"fa fa-envelope-o\"></i> Send message</button>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t</section>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-md-4\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>",
+            "ExtEdit": false,
+            "paddingTop": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayColor": "#222"
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "info@farmranger.co.za",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "24px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "<p><a href=\"#\"><iframe src=\"https://www.google.co.za\" <=\"\" iframe=\"\">&lt;/A&gt;</iframe></a></p>",
-          "meta": "By John Smith posted July 20, 2016"
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "",
+          "HTMLCode": "<div class=\"container\" id=\"contact\">\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\t<div class=\"col-md-8\">\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t\t<h2 id=\"philip-lötter\">Philip Lötter</h2>\n\t\t\t\t\t\t\t<h4>Tel: +27 (0)28-212 3346</h4>\n\t\t\t\t\t\t\t<h4>Fax: +27 (0)28-212 1905</h4>\n\t\t\t\t\t\t\t<h4>info@farmranger.co.za</h4>\n\t\t\n\t\t\t\t<hr>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<form method=\"post\" action=\"//flipmail.co/api/9pcbAgPxCZikzWVBALTP\">\n\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"name\">Name and Surname</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"name\" id=\"name\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"email\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div><div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Confirm Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email2\" id=\"email2\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"message\">Message</label>\n\t\t\t\t\t\t\t\t\t\t\t<textarea rows=\"20\" id=\"message\" class=\"form-control\" name=\"message\" required></textarea>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n<!--\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6 center\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g-recaptcha\" data-sitekey=\"6LfGwAoUAAAAANj6o3IKjRA17rdbZnCQP_EsdB4U\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>-->\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"_honey\" value=\"\" style=\"display:none\">\n\t\t\t\t\t\t\t\t\t<div class=\"row spacer\"></div>\n\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12 text-center\">\n\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" class=\"btn btn-template-main\"><i class=\"fa fa-envelope-o\"></i> Send message</button>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t</section>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-md-4\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>",
+          "tinyeditor": ""
         }
       ]
     },
