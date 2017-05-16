@@ -894,10 +894,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/asset-12-427x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-429x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -959,7 +959,7 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "right",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -1064,7 +1064,7 @@
               "src": "@PROJECT_PATH@/assets/images/asset-12-427x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1219,7 +1219,7 @@
               "src": "@PROJECT_PATH@/assets/images/asset-12-427x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1550,10 +1550,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-429x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-12-427x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1601,7 +1601,7 @@
             "showMeta": true
           },
           "title": "farmrangersa.com Privacy Policy",
-          "meta": "By L Herselman posted 2017-05-10"
+          "meta": "&nbsp;2017-05-10"
         },
         {
           "_tags": [
