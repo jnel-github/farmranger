@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 78,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1121,61 +1121,30 @@
           "text": "Copyright (c) 2017 FarmRanger &nbsp;- <a href=\"privacypolicy.html\">Privacy Policy</a>"
         },
         {
+          "alias": "htmlblock",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "form1",
-          "_anchor": "form1-24",
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-25",
           "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "blockTitle": "",
+            "HTMLCode": "<script type=\"text/javascript\" src=\"https://form.myjotform.com/jsform/71421878135559\"></script>",
+            "ExtEdit": false,
+            "paddingTop": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayColor": "#222"
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "jnel@emss.co.za",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "",
+          "HTMLCode": "<script type=\"text/javascript\" src=\"https://form.myjotform.com/jsform/71421878135559\"></script>",
+          "tinyeditor": ""
         }
       ]
     },
