@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "FarmRanger",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 77,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -659,6 +659,29 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#f79321"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "CURRENT USERS\u001b",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "msg-box5",
           "_tags": [
             "Theme"
@@ -688,7 +711,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -737,7 +760,7 @@
           "_styles": {
             "H3": {
               "color": "#ffffff",
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
               "font-size": "32px"
@@ -798,7 +821,7 @@
             }
           },
           "title": "MEET THE TEAM",
-          "text": "<b>FarmRanger</b> is a division of <b>ETSE Electronics Pty (Ltd)</b><br>",
+          "text": "<b>FarmRanger</b> is a division of <b><a href=\"http://www.etse.co.za/\" target=\"_blank\" class=\"text-white\">ETSE Electronics Pty (Ltd)</a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -938,7 +961,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "text-align": "center"
@@ -1098,30 +1121,61 @@
           "text": "Copyright (c) 2017 FarmRanger &nbsp;- <a href=\"privacypolicy.html\">Privacy Policy</a>"
         },
         {
-          "alias": "htmlblock",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-22",
+          "_name": "form1",
+          "_anchor": "form1-24",
           "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<div class=\"container\" id=\"contact\">\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\t<div class=\"col-md-8\">\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t\t<h2 id=\"philip-lötter\">Philip Lötter</h2>\n\t\t\t\t\t\t\t<h4>Tel: +27 (0)28-212 3346</h4>\n\t\t\t\t\t\t\t<h4>Fax: +27 (0)28-212 1905</h4>\n\t\t\t\t\t\t\t<h4>info@farmranger.co.za</h4>\n\t\t\n\t\t\t\t<hr>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<form method=\"post\" action=\"//flipmail.co/api/9pcbAgPxCZikzWVBALTP\">\n\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"name\">Name and Surname</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"name\" id=\"name\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"email\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div><div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Confirm Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email2\" id=\"email2\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"message\">Message</label>\n\t\t\t\t\t\t\t\t\t\t\t<textarea rows=\"20\" id=\"message\" class=\"form-control\" name=\"message\" required></textarea>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n<!--\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6 center\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g-recaptcha\" data-sitekey=\"6LfGwAoUAAAAANj6o3IKjRA17rdbZnCQP_EsdB4U\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>-->\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"_honey\" value=\"\" style=\"display:none\">\n\t\t\t\t\t\t\t\t\t<div class=\"row spacer\"></div>\n\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12 text-center\">\n\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" class=\"btn btn-template-main\"><i class=\"fa fa-envelope-o\"></i> Send message</button>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t</section>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-md-4\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>",
-            "ExtEdit": false,
-            "paddingTop": "0",
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "",
-          "HTMLCode": "<div class=\"container\" id=\"contact\">\n\t\t\t\t<div class=\"row\">\n\t\t\t\t\t<div class=\"col-md-8\">\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t\t<h2 id=\"philip-lötter\">Philip Lötter</h2>\n\t\t\t\t\t\t\t<h4>Tel: +27 (0)28-212 3346</h4>\n\t\t\t\t\t\t\t<h4>Fax: +27 (0)28-212 1905</h4>\n\t\t\t\t\t\t\t<h4>info@farmranger.co.za</h4>\n\t\t\n\t\t\t\t<hr>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<form method=\"post\" action=\"//flipmail.co/api/9pcbAgPxCZikzWVBALTP\">\n\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"name\">Name and Surname</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"name\" id=\"name\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email\" id=\"email\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div><div class=\"col-sm-6\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"email\">Confirm Email Address</label>\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"text\" class=\"form-control\" name=\"email2\" id=\"email2\" required>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t\t\t\t\t\t<label for=\"message\">Message</label>\n\t\t\t\t\t\t\t\t\t\t\t<textarea rows=\"20\" id=\"message\" class=\"form-control\" name=\"message\" required></textarea>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n<!--\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-6 center\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g-recaptcha\" data-sitekey=\"6LfGwAoUAAAAANj6o3IKjRA17rdbZnCQP_EsdB4U\"></div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>-->\n\t\t\t\t\t\t\t\t\t<input type=\"text\" name=\"_honey\" value=\"\" style=\"display:none\">\n\t\t\t\t\t\t\t\t\t<div class=\"row spacer\"></div>\n\t\t\t\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-sm-12 text-center\">\n\t\t\t\t\t\t\t\t\t\t\t<button type=\"submit\" class=\"btn btn-template-main\"><i class=\"fa fa-envelope-o\"></i> Send message</button>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t</section>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-md-4\">\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>",
-          "tinyeditor": ""
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "jnel@emss.co.za",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         }
       ]
     },
